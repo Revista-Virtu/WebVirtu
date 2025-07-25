@@ -2332,3 +2332,36 @@ button,
   margin-right: auto;     
   width: 100%;
 }
+
+
+
+.capcalera-container {
+  max-width: 480px;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  text-align: left;
+}
+
+.image-banner {
+  max-width: 480px;
+  width: 100%;
+  height: 180px; /* altura visible del retall */
+  overflow: hidden;
+  position: relative;
+  margin-bottom: 1em;
+}
+
+.image-banner img {
+  width: 100%;
+  object-fit: cover;
+  object-position: top center; /* mostra només la part superior */
+  display: block;
+}
+
+.titol-capcalera {
+  font-size: 1.5em;
+  font-weight: 600;
+  margin: 0;
+}
+
