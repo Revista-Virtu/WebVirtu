@@ -2325,6 +2325,11 @@ button,
   color: inherit;
 }
 
+.logo-container .logo-img2 {
+  height: 10em;
+  margin-right: 0.75em;
+}
+
 
 .pdf-container {
   max-width: 1200px;  
