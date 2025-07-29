@@ -2350,6 +2350,7 @@ button,
 
 .image-banner {
   max-width: 480px;
+  min-width: 480px;
   width: 100%;
   height: 180px; /* altura visible del retall */
   overflow: hidden;
